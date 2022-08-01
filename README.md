@@ -46,7 +46,7 @@
 
 <p align="center">
 
-  <img src="https://profile-counter.glitch.me/billythegoat356/count.svg" />
+  <img src="https://profile-counter.glitch.me/popcord/count.svg" />
 
 </p>
 
